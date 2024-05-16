@@ -1,1 +1,1 @@
-# .github
+# Projektmanagement INF23A
